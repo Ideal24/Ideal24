@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/codeing_space.gif" alt="coding.gif" width="600" style="border-radius: 10px;" />
+  <img src="Ideal24/assets/images/codeing_space.gif" alt="coding.gif" width="600" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
