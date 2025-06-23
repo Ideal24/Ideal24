@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="Ideal24/assets/images/codeing_space.gif" alt="coding.gif" width="600" style="border-radius: 10px;" />
+  <img src="assets/images/codeing_space.gif" alt="coding gif" width="600" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
