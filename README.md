@@ -93,8 +93,7 @@
 
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1359/1359009.png" alt="YOLOv8" width="40" height="40" />
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="ChatGPT Logo" width="40" style="vertical-align:middle;">
+   <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="ChatGPT" width="40" style="vertical-align:middle;">
 
 
   <!-- 📱 Mobile & IoT -->
