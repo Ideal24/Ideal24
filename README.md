@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ideal24/ideal24/blob/main/assets/images/codeing.gif
+![MasterHead](https://github.com/ideal24/ideal24/blob/main/assets/images/codeing.gif)
 
 <h1 align="center">Hi 👋, I'm Adarsha Das</h1>
 <h3 align="center">🎓 2nd Year BCA Student | 🛠️ Developer | 📡 IoT + AI Enthusiast</h3>
