@@ -79,7 +79,8 @@
 
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/docs/yolo-logo.png" alt="YOLO" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/docs/yolo-logo.png" alt="YOLOv8" width="40" height="40" />
+
   <img src="https://img.icons8.com/ios/452/chatgpt.png" alt="ChatGPT" width="40" height="40" />
 
   <!-- 📡 IoT & Embedded -->
