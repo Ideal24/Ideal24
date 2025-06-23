@@ -84,7 +84,7 @@
   <!-- 📡 IoT & Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Arduino_IDE_logo.svg" alt="Arduino IDE" width="40" height="40" />
+
 
 
 
