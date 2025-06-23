@@ -82,6 +82,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://img.icons8.com/fluency/48/console.png" alt="ADB" width="40" height="40" />
 
   <!-- 🌐 Web Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -93,7 +94,8 @@
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/1359/1359009.png" alt="YOLOv8" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/openai.svg" alt="ChatGPT" width="40" height="40" />
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="ChatGPT Logo" width="40" style="vertical-align:middle;"> <span style="font-weight:bold; font-family:sans-serif; margin-left:6px;">ChatGPT</span>
+
 
   <!-- 📱 Mobile & IoT -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
@@ -101,18 +103,18 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
 
   <!-- 🔌 Embedded Tools -->
-  <img src="https://seeklogo.com/images/C/coolterm-logo-86CD56E431-seeklogo.com.png" alt="CoolTerm" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Easyeda_logo.png/800px-Easyeda_logo.png" alt="EasyEDA" width="40" height="40" />
+ <!-- <img src="https://seeklogo.com/images/C/coolterm-logo-86CD56E431-seeklogo.com.png" alt="CoolTerm" width="40" height="40" /> -->
+   <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Easyeda_logo.png/800px-Easyeda_logo.png" alt="EasyEDA" width="40" height="40" /> -->
 
   <!-- 🛠️ CAD & Design -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Autodesk_Fusion_360_logo.svg" alt="Fusion 360" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Blender_logo_no_text.svg" alt="Blender" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/KiCad_logo.svg" alt="KiCad" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40" />
+    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Autodesk_Fusion_360_logo.svg" alt="Fusion 360" width="40" height="40" /> -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender Logo" width="60" height="60" />
+   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/KiCad_logo.svg" alt="KiCad" width="40" height="40" /> -->
+ <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40" />
 
   <!-- 🔧 Tools & Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40" />
+   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40" /> -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
