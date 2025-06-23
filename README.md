@@ -1,5 +1,13 @@
 <!-- ✨ Adarsha Das GitHub Profile README -->
 
+<!-- 🌗 Theme Toggle Button (Bulb) -->
+<p align="right">
+  <picture>
+    <source srcset="https://img.shields.io/badge/Theme-Light-yellow?style=for-the-badge&logo=javascript&logoColor=black" media="(prefers-color-scheme: dark)">
+    <img src="https://img.shields.io/badge/Theme-Dark-blue?style=for-the-badge&logo=github&logoColor=white" alt="Theme toggle" />
+  </picture>
+</p>
+
 <!-- 🎬 GIF HEADER -->
 <p align="center">
   <img src="assets/images/codeing_space.gif" alt="coding gif" width="600" />
@@ -19,7 +27,7 @@
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ideal24&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ideal24&theme=dracula&margin-w=15&margin-h=15&animation=slideIn" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -79,20 +87,30 @@
 
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/docs/yolo-logo.png" alt="YOLO" width="40" height="40" />
   <img src="https://img.icons8.com/ios/452/chatgpt.png" alt="ChatGPT" width="40" height="40" />
 
   <!-- 📡 IoT & Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ESP32_Logo.svg" alt="ESP32" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Arduino_IDE_logo.svg" alt="Arduino IDE" width="40" height="40" />
+  <img src="https://seeklogo.com/images/C/coolterm-logo-86CD56E431-seeklogo.com.png" alt="CoolTerm" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ESyS-Particle-logo.png" alt="ESyS-Particle" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/ADB_logo.png" alt="ADB" width="40" height="40" />
 
-
-
-
+  <!-- 🛠️ CAD / Design -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Autodesk_Fusion_360_logo.svg" alt="Fusion 360" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Blender_logo_no_text.svg" alt="Blender" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/KiCad_logo.svg" alt="KiCad" width="40" height="40" />
 
   <!-- 🔧 Tools & Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
 </p>
 
 ---
