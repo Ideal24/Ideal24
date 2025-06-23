@@ -107,10 +107,11 @@
    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Easyeda_logo.png/800px-Easyeda_logo.png" alt="EasyEDA" width="40" height="40" /> -->
 
   <!-- 🛠️ CAD & Design -->
-    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Autodesk_Fusion_360_logo.svg" alt="Fusion 360" width="40" height="40" /> -->
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Autodesk_Fusion_360_logo.svg" alt="Fusion 360" width="40" height="40" /> -->
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender Logo" width="60" height="60" />
-   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/KiCad_logo.svg" alt="KiCad" width="40" height="40" /> -->
- <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40" />
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/KiCad_logo.svg" alt="KiCad" width="40" height="40" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
+
 
   <!-- 🔧 Tools & Platforms -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
