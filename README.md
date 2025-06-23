@@ -93,7 +93,6 @@
 
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="ChatGPT Logo" width="40" style="vertical-align:middle;">
 
 
   <!-- 📱 Mobile & IoT -->
