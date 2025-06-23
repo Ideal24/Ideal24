@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/ideal24/ideal24/blob/main/assets/images/codeing.gif)
+<p align="center">
+  <img src="assets/images/codeing_space.gif" alt="coding gif" width="600" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Adarsha Das</h1>
 <h3 align="center">🎓 2nd Year BCA Student | 🛠️ Developer | 📡 IoT + AI Enthusiast</h3>
@@ -9,9 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ideal24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="assets/images/codeing.gif" alt="coding gif" width="600" />
-</p>
+
 
 
 <p align="center">
