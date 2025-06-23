@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/coding.gif" alt="Demo GIF" width="600" style="border-radius: 10px;" />
+  <img src="assets/images/This pin is all about coding.gif" alt="coding.gif" width="600" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
