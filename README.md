@@ -1,19 +1,22 @@
+<!-- ✨ Adarsha Das GitHub Profile README -->
+
+<!-- 🎬 GIF HEADER -->
 <p align="center">
   <img src="assets/images/codeing_space.gif" alt="coding gif" width="600" />
 </p>
 
+<!-- 👋 INTRO -->
 <h1 align="center">Hi 👋, I'm Adarsha</h1>
 <h3 align="center">🎓 2nd Year BCA Student | 🛠️ Developer | 📡 IoT + AI Enthusiast</h3>
-<h4 align="center">💻 Exploring the sweet spot between software logic and hardware power</h4>
-<h4 align="center">⚡ Currently working on: Ethereum Phishing Detection & ESP32 Automation</h4>
+<h4 align="center">💻 Bridging software logic with hardware power</h4>
+<h4 align="center">⚡ Currently exploring: Ethereum Phishing Detection & ESP32 Automation</h4>
 
+<!-- 👁️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ideal24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
-
-
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ideal24&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -24,34 +27,38 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **SIEGE: Ethereum Phishing Scam Detection**
-- 🌱 I’m learning **AI, Full-Stack Development, and Robotics**
-- 👯 I’m looking to collaborate on **AD_FLY**
-- 🤝 I’m looking for help with **AD_FLY**
-- 👨‍💻 All my projects are at: [adarsha-portfolio.kesug.com](https://adarsha-portfolio.kesug.com/)
-- 📝 I write on: [medium.com/@adarshadas47](https://medium.com/@adarshadas47)
-- 💬 Ask me about **Nothing** 😄
-- 📫 Reach me at: **adarshadas47@gmail.com**
+- 🔭 Working on: **SIEGE: Ethereum Phishing Scam Detection**
+- 🌱 Learning: **AI, Full-Stack Development, Robotics**
+- 👯 Collaboration Interest: **AD_FLY Project**
+- 🤝 Seeking help for: **AD_FLY**
+- 👨‍💻 Portfolio: [adarsha-portfolio.kesug.com](https://adarsha-portfolio.kesug.com/)
+- 📝 Articles: [medium.com/@adarshadas47](https://medium.com/@adarshadas47)
+- 💬 Ask me about: **Nothing** 😄
+- 📫 Contact: **adarshadas47@gmail.com**
 - 📄 Know more: [adarsha-portfolio.kesug.com](https://adarsha-portfolio.kesug.com/)
 - ⚡ **Fun Fact:** *Hakuna Matata! I don't really know anything—I just dive in, explore, and learn along the way!* 🌊🧠
 
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/adarsha%20das" target="blank">
+  <a href="https://linkedin.com/in/adarsha%20das" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/adarsha%20das" target="blank">
+  <a href="https://fb.com/adarsha%20das" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/adarsha_d0s" target="blank">
+  <a href="https://instagram.com/adarsha_d0s" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://medium.com/@adarshadas47" target="blank">
+  <a href="https://medium.com/@adarshadas47" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="center">
@@ -72,13 +79,13 @@
 
   <!-- 🤖 AI / ML / Vision -->
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Yolo_logo.png" alt="YOLO" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/docs/yolo-logo.png" alt="YOLO" width="40" height="40" />
   <img src="https://img.icons8.com/ios/452/chatgpt.png" alt="ChatGPT" width="40" height="40" />
 
   <!-- 📡 IoT & Embedded -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ESP32_Logo.svg" alt="ESP32" width="40" height="40" />
-  <img src="https://www.raspberrypi.com/documentation/computers/images/raspberry-pi-logo.png" alt="Raspberry Pi" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Arduino_IDE_logo.svg" alt="Arduino IDE" width="40" height="40" />
   <img src="https://seeklogo.com/images/C/coolterm-logo-86CD56E431-seeklogo.com.png" alt="CoolTerm" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ESyS-Particle-logo.png" alt="ESyS-Particle" width="40" height="40" />
@@ -96,9 +103,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-
 </p>
-
 
 ---
 
