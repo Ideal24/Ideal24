@@ -16,7 +16,7 @@
 <!-- 👋 INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=Hi+👋%2C+I'm+Adarsha" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Adarsha" alt="Typing Animation" />
 </p>
 
 <!--<h1 align="center">Hi 👋, I'm Adarsha</h1> -->
