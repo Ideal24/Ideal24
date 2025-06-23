@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/codeing_space.gif" alt="coding gif" width="600" />
+  <img src="assets/images/codeing.gif" alt="coding gif" width="600" />
 </p>
 
 
