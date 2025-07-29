@@ -20,7 +20,7 @@
 </p>
 
 <!--<h1 align="center">Hi 👋, I'm Adarsha</h1> -->
-<h3 align="center">🎓 2nd Year BCA Student | 🛠️ Developer | 📡 IoT + AI Enthusiast</h3>
+<h3 align="center">🎓 3rd Year BCA Student | 🛠️ Developer | 📡 IoT + AI Enthusiast</h3>
 <h4 align="center">💻 Bridging software logic with hardware power</h4>
 <h4 align="center">⚡ Currently exploring: Ethereum Phishing Detection & ESP32 Automation</h4>
 
